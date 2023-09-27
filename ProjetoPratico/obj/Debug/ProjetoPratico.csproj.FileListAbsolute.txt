@@ -1,0 +1,10 @@
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\bin\Debug\ProjetoPratico.exe.config
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\bin\Debug\ProjetoPratico.exe
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\bin\Debug\ProjetoPratico.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.Properties.Resources.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.exe
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\ProjetoPratico\ProjetoPratico\obj\Debug\ProjetoPratico.btnLimparPreco.resources
